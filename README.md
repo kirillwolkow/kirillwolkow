@@ -42,6 +42,15 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.kirillwolkow.vercel.app/api?username=kirillwolkow&show_icons=true&hide_border=true" />
+
+</details>
+
+---
+
 [website]: https://kennywolf.org
 [twitter]: https://twitter.com/KirillWolkowDev
 [linkedin]: https://linkedin.com/in/kennywolf-dev/
