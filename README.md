@@ -1,6 +1,6 @@
 ### Hi there, I'm Kenny - aka [kirillwolkow][website] 👋 
 
-[![Website](https://img.shields.io/website?label=KirillWolkowDev.com&style=for-the-badge&url=https%3A%2F%2Fkennywolf.org)](https://kennywolf.org)
+[![Website](https://img.shields.io/website?label=kennywolf.org&style=for-the-badge&url=https%3A%2F%2Fkennywolf.org)](https://kennywolf.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KirillWolkowDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKirillWolkowDev&screen_name=KirillWolkowDev)
 
 ## I'm Swiss based Developer and Student!
@@ -48,6 +48,10 @@
   <img align="left" alt="kirillwolkow's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kirillwolkow&show_icons=true&hide_border=true" />
 
 </details>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillwolkow&langs_count=8&layout=compact)](https://github.com/kirillwolkow/github-readme-stats)
 
 ---
 
