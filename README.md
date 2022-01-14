@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Installation &amp; Einrichtung von Virtual Machines &lpar;VMs&rpar;](https://www.kennywolf.org/artikel/installation-einrichtung-von-virtual-machines-vms)
 - [Bewegung &amp; Workflow im Linux Terminal](https://www.kennywolf.org/artikel/bewegung-und-workflow-im-linux-terminal)
 - [Virtual Machines &lpar;VMs&rpar; erklärt](https://www.kennywolf.org/artikel/virtual-machines-vms-erklart)
 - [Wie ich für mein CompTIA A+ Zertifikat lerne](https://www.kennywolf.org/artikel/wie-ich-fuer-mein-comptia-a-zertifikat-lerne)
