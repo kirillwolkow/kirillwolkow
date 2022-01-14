@@ -38,8 +38,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Machines &lpar;VMs&rpar; erklärt](https://www.kennywolf.org/artikel/virtual-machines-vms-erklaert)
 - [Bewegung &amp; Workflow im Linux Terminal](https://www.kennywolf.org/artikel/bewegung-und-workflow-im-linux-terminal)
-- [Virtual Machines &lpar;VMs&rpar; installieren](https://www.kennywolf.org/artikel/rerum-aut)
 - [Wie ich für mein CompTIA A+ Zertifikat lerne](https://www.kennywolf.org/artikel/wie-ich-fuer-mein-comptia-a-zertifikat-lerne)
 - [Dolorum Sit Non](https://www.kennywolf.org/artikel/dolorum-sit-non)
 - [Aut Expedita](https://www.kennywolf.org/artikel/aut-expedita)
