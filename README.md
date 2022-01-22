@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=kennywolf.org&style=for-the-badge&url=https%3A%2F%2Fkennywolf.org)](https://kennywolf.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KirillWolkowDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKirillWolkowDev&screen_name=KirillWolkowDev)
 
-## I'm a Swiss based Developer and Student!
+## I'm a Swiss based Developer!
 
 - 🌱 I’m currently learning for my CompTIA A+
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Finish one awesome project
-- ⚡ Fun fact: I'm a hopeless romantic
+- ⚡ Fun fact: I love chicken nuggets!
 
 ### Connect with me:
 
