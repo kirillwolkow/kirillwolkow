@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning for my CompTIA A+
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Finish one awesome project
+- 🥅 2022 Goals: Finish a project every month
 - ⚡ Fun fact: I love chicken nuggets!
 
 ### Connect with me:
