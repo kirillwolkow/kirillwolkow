@@ -5,7 +5,7 @@
 
 ## I'm a Swiss based Developer!
 
-- 🌱 I’m currently learning for my CompTIA A+
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Finish a project every month
 - ⚡ Fun fact: I love chicken nuggets!
