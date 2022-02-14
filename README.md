@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lebenserwartung und BIP - gibt es einen Zusammenhang?](https://www.kennywolf.org/artikel/lebenserwartung-und-bip-gibt-es-einen-zusammenhang)
 - [Installation &amp; Einrichtung von Virtual Machines &lpar;VMs&rpar;](https://www.kennywolf.org/artikel/installation-einrichtung-von-virtual-machines-vms)
 - [Bewegung &amp; Workflow im Linux Terminal](https://www.kennywolf.org/artikel/bewegung-und-workflow-im-linux-terminal)
 - [Virtual Machines &lpar;VMs&rpar; erklärt](https://www.kennywolf.org/artikel/virtual-machines-vms-erklart)
