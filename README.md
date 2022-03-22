@@ -5,9 +5,9 @@
 
 ## I'm a Swiss based Developer!
 
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Finish a project every month
+- 🌱 I’m currently learning Full Stack Development
+- 👯 I’m looking for an entry level job as a developer
+- 🥅 2022 Goals: Break into the industry!
 - ⚡ Fun fact: I love chicken nuggets!
 
 ### Connect with me:
