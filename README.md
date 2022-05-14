@@ -6,7 +6,7 @@
 ## I'm a Swiss based Developer!
 
 - 🌱 I’m currently learning Django and Vue.js
-- 👯 I got a job as an Software Developer Intern!!!
+- 👯 I got a job as a Software Developer Intern!!!
 - 🥅 2022 Goals: Break into the industry!
 - ⚡ Fun fact: I love chicken nuggets!
 
