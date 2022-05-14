@@ -5,8 +5,8 @@
 
 ## I'm a Swiss based Developer!
 
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking for an entry level job as a developer
+- 🌱 I’m currently learning Django and Vue.js
+- 👯 I got a job as an Software Developer Intern!!!
 - 🥅 2022 Goals: Break into the industry!
 - ⚡ Fun fact: I love chicken nuggets!
 
