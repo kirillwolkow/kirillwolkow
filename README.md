@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kennywolf.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kennywolf.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kirillwolkow | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kirillwolkow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -60,6 +60,6 @@
 
 ---
 
-[website]: https://kennywolf.org
-[twitter]: https://twitter.com/KirillWolkowDev
+[website]: https://kennywolf.info
+[twitter]: https://twitter.com/kennyrogerwolf
 [linkedin]: https://linkedin.com/in/kennywolf-dev/
