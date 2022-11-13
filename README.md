@@ -1,11 +1,11 @@
 ### Hi there, I'm Kenny - aka [kirillwolkow][website] 👋 
 
-[![Website](https://img.shields.io/website?label=kennywolf.org&style=for-the-badge&url=https%3A%2F%2Fkennywolf.org)](https://kennywolf.org)
+[![Website](https://img.shields.io/website?label=kennywolf.org&style=for-the-badge&url=https%3A%2F%2Fkennywolf.org)](https://kennywolf.info)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KirillWolkowDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKirillWolkowDev&screen_name=KirillWolkowDev)
 
 ## I'm a Swiss based Developer!
 
-- 🌱 I’m currently learning Django and Vue.js
+- 🌱 I’m currently learning Django and Nuxt
 - 👯 I got a job as a Software Developer Intern!!!
 - 🥅 2022 Goals: Break into the industry!
 - ⚡ Fun fact: I love chicken nuggets!
@@ -32,18 +32,6 @@
 
 <br />
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Lebenserwartung und BIP - gibt es einen Zusammenhang?](https://www.kennywolf.org/artikel/lebenserwartung-und-bip-gibt-es-einen-zusammenhang)
-- [Installation &amp; Einrichtung von Virtual Machines &lpar;VMs&rpar;](https://www.kennywolf.org/artikel/installation-einrichtung-von-virtual-machines-vms)
-- [Bewegung &amp; Workflow im Linux Terminal](https://www.kennywolf.org/artikel/bewegung-und-workflow-im-linux-terminal)
-- [Virtual Machines &lpar;VMs&rpar; erklärt](https://www.kennywolf.org/artikel/virtual-machines-vms-erklart)
-- [Wie ich für mein CompTIA A+ Zertifikat lerne](https://www.kennywolf.org/artikel/wie-ich-fuer-mein-comptia-a-zertifikat-lerne)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
