@@ -1,13 +1,13 @@
 ### Hi there, I'm Kenny - aka [kirillwolkow][website] 👋 
 
 [![Website](https://img.shields.io/website?label=kennywolf.info&style=for-the-badge&url=https%3A%2F%2Fkennywolf.info)](https://kennywolf.info)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kennyrogerwolf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkennyrogerwolf&screen_name=KennyWolf)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kennyrogerwolf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkennyrogerwolf&screen_name=kennyrogerwolf)
 
 ## I'm a Swiss based Developer!
 
-- 🌱 I’m currently learning Django and Nuxt
-- 👯 I got a job as a Software Developer Intern!!!
-- 🥅 2022 Goals: Break into the industry!
+- 🌱 I’m currently learning the OWASP Top 10
+- 👯 Working as a Full Stack Software Developer
+- 🥅 2023 Goals: Launch Newsletter Geek Talk
 - ⚡ Fun fact: I love chicken nuggets!
 
 ### Connect with me:
