@@ -6,8 +6,7 @@
 ## I'm a Swiss based Developer!
 
 - 🌱 I’m currently learning the OWASP Top 10
-- 👯 Working as a Full Stack Software Developer
-- 🥅 2023 Goals: Launch Newsletter Geek Talk
+- 🧑‍💻 Working as a Junior Software Engineer
 - ⚡ Fun fact: I love chicken nuggets!
 
 ### Connect with me:
