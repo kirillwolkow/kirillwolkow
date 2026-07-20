@@ -29,19 +29,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private" />
-</details>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=8&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
 [website]: https://kennywolf.info
 [linkedin]: https://linkedin.com/in/kennywolf-dev/
 [docs]: https://clear-byte.com
